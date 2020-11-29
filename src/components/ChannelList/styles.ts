@@ -8,7 +8,7 @@ export const Container = styled.div`
   flex-direction: column;
 
 
-  background-color: var(--primary);
+  background-color: var(--secondary);
 
   padding: 24px 9.5px 0px 16px;
 
