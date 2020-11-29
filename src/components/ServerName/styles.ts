@@ -12,7 +12,7 @@ export const Container = styled.div`
 
   padding: 0px 11px 0px 16px;
 
-  box-shadow: rgba(0,0,0,0.2) 0px 1px 0px 0px;
+  box-shadow: rgba(0,0,0,0.2) 0px 2px 0px 0px;
   z-index: 2;
 `;
 

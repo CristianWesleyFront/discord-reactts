@@ -3,16 +3,18 @@ import React from "react";
 import { Grid } from "./styles";
 import ServerList from "../ServerList";
 import ServerName from '../ServerName';
-import ChanneInfo from '../ChanneInfo';
-import ChanneList from '../ChanneList';
+import ChannelInfo from '../ChannelInfo';
+import ChannelList from '../ChannelList';
+import UserInfo from '../UserInfo'
 
 const Layout: React.FC = () => {
   return (
     <Grid>
       <ServerList />
       <ServerName />
-      <ChanneInfo />
-      <ChanneList />
+      <ChannelInfo />
+      <ChannelList />
+      <UserInfo />
     </Grid>
   );
 };
