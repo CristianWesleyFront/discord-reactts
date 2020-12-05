@@ -16,9 +16,9 @@
 
 ## 📓 Sobre
 
-Referência do projeto [Homepage da Tesla com ReactJS | UI Clone #14](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=4) da [Rocketseat](https://github.com/Rocketseat)
+Referência do projeto [Recriando a Interface do Discord com ReactJS | UI Clone #5](https://www.youtube.com/watch?v=x4FdZd2-_uU&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=13) da [Rocketseat](https://github.com/Rocketseat)
 
-Uma aplicação desenvolvida em react com typescript, focada na interface e estilização da landingPage da TESLA, que busca fazer um clone o mais identifico possível através de css em formato de styled-components.
+Uma aplicação desenvolvida em react com typescript, focada na interface e estilização do discord, que busca fazer um clone o mais identifico possível através de css em formato de styled-components.
 
 # 👨‍💻 Tecnologias utilizadas
 
@@ -74,5 +74,5 @@ Uma aplicação desenvolvida em react com typescript, focada na interface e esti
 
 ## 🤝 Considerações
 
-#### Ideia do projeto : 
+#### Ideia do projeto :  https://github.com/rocketseat-content/youtube-clone-discord/blob/master/README.md
 ### Criador: https://github.com/guilhermerodz
